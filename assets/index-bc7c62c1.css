@@ -230,7 +230,7 @@ legend {
 	line-height: 110%;
 	padding: 20px;
 	width: 408px;
-	height: calc(100vh - 80px);
+	height: calc(100dvh - 80px);
 	position: fixed;
 	top: 80px;
 	right: -408px;
